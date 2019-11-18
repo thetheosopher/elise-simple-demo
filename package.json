@@ -1,0 +1,19 @@
+{
+  "name": "elise-client",
+  "version": "1.0.0",
+  "description": "Demo project to test Elise Graphics Library",
+  "main": "public/js/app.js",
+  "directories": {
+    "lib": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michael A. McCloskey",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "elise-graphics": "^1.0.5"
+  }
+}
